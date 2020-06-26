@@ -13,5 +13,6 @@ Payment with Flutterwave
 
 [Flutterwave Reference](https://developer.flutterwave.com/reference#create-a-transfer)
 
+Blog on how to use Payment API Coming soon!!!
 
 Thanks for contributing!!!
