@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         val secret = "SECRET-KEY"
 
         val retrofit = Retrofit.Builder()
-            .baseUrl("https://api.flutterwave.com/v3/")
+            .baseUrl("url")
             .addConverterFactory(GsonConverterFactory.create())
             .client(OkHttpClient.Builder().addInterceptor { chain ->
                 val request = chain.request().newBuilder().addHeader("Authorization", "Bearer $secret").build()
