@@ -4,7 +4,6 @@ Payment with Flutterwave
 
 # Issues
 
-* Getting null values
 * Arranging the classes
 
 # Links
