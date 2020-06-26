@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val secret = "FLWSECK_TEST-3550dd5e50b825327314d82e3cceccfb-X"
+        val secret = "SECRET-KEY"
 
         val retrofit = Retrofit.Builder()
             .baseUrl("https://api.flutterwave.com/v3/")
