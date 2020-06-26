@@ -1,5 +1,5 @@
 # Pay
-Payment with Flutterwave
+Payment with Flutterwave's API
 
 
 # Issues
