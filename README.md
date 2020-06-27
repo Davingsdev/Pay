@@ -2,7 +2,7 @@
 Payment with Flutterwave's API
 
 
-# Issues
+# Issues Faced
 
 * Arranging the classes
 
