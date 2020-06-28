@@ -15,4 +15,8 @@ Payment with Flutterwave's API
 
 Blog on how to use Payment API Coming soon!!!
 
+# Contribution
+
+Everyone can contribute
+
 Thanks for contributing!!!
