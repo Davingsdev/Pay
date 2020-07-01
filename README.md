@@ -4,7 +4,7 @@ Payment with Flutterwave's API
 
 # Issues Faced
 
-* Arranging the classes
+* Arranging the classes - Fixed would be pushed  soon
 
 # Links
 
