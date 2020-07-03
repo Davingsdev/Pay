@@ -17,6 +17,6 @@ Blog on how to use Payment API Coming soon!!!
 
 # Contribution
 
-Everyone can contribute
+Everyone can contribute on this repo
 
 Thanks for contributing!!!
