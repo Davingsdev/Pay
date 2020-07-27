@@ -1,10 +1,13 @@
 # Pay
 Payment with Flutterwave's API
 
+# Todo
+
+* Fixed classes arrangement
 
 # Issues Faced
 
-* Arranging the classes - Fixed would be pushed  soon
+* None 
 
 # Links
 
