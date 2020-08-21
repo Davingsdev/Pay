@@ -5,6 +5,7 @@ Payment with Flutterwave's API
 
 * Fixed classes arrangement
 * Work on payment app
+* Make new changes
 
 # Issues Faced
 
