@@ -7,7 +7,8 @@ Payment with Flutterwave's API
 
 # Issues Faced
 
-* None 
+* None
+* Adjusting issues
 
 # Links
 
