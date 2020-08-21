@@ -1,5 +1,5 @@
 # Pay
-Payment with Flutterwave's API
+Payment with Flutterwave's API...deafult drop in UI
 
 # Todo
 
