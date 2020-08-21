@@ -4,6 +4,7 @@ Payment with Flutterwave's API
 # Todo
 
 * Fixed classes arrangement
+* Work on payment app
 
 # Issues Faced
 
