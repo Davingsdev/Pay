@@ -6,6 +6,7 @@ Payment with Flutterwave's API...deafult drop in UI
 * Fixed classes arrangement
 * Work on payment app
 * Make new changes
+* Use latest architecture
 
 # Issues Faced
 
