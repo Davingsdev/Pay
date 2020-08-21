@@ -11,6 +11,7 @@ Payment with Flutterwave's API...deafult drop in UI
 
 * None
 * Adjusting issues
+* Correct null issues
 
 # Links
 
