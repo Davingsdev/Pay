@@ -9,6 +9,7 @@ Would be converting the default Drop in UI to custom UI
 * Work on payment app
 * Make new changes
 * Use latest architecture
+* Add stronger secuirity
 
 # Issues Faced
 
