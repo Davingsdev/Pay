@@ -1,15 +1,15 @@
 # Pay
-Payment with Flutterwave's API...deafult drop in UI
+Payment with Flutterwave's API...deafult drop-in UI
 
-Would be converting the default Drop in UI to custom UI
+Would be converting the default Drop-in UI to custom UI
 
 # Todo
 
 * Fixed classes arrangement
-* Work on payment app
+* Work on the payment app
 * Make new changes
-* Use latest architecture
-* Add stronger secuirity
+* Use the latest architecture
+* Add stronger security
 
 # Issues Faced
 
@@ -28,6 +28,6 @@ Blog on how to use Payment API Coming soon!!!
 
 # Contribution
 
-Everyone can contribute on this repo
+Everyone can contribute to this repo
 
 Thanks for contributing!!!
